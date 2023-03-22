@@ -1,2 +1,2 @@
 # IBM_Data_Science_Professional
-IBM Data Science Professional Certificate with Resultsets.
+IBM Data Science Professional Certificate with Result sets.
